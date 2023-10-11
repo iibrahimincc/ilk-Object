@@ -56,7 +56,7 @@ public class Test {
         System.out.println("Araç Modeli :" + araba4.model);
         System.out.println( "Araç Rengi :" + araba4.renk);
         System.out.println("Araç Kapı Sayısı  :" + araba4.kapilar);
-        System.out.println("Araç Teker Sayısi :" + araba4.tekerlekler);
+        System.out.println("Araç Teker Sayısı :" + araba4.tekerlekler);
         System.out.println("Araç Motor Gücü :" + araba4.motor);
 
     }
