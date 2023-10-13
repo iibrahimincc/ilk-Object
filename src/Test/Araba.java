@@ -1,3 +1,5 @@
+package Test;
+
 public class Araba {
 
     public String renk ;
